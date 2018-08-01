@@ -1,0 +1,16 @@
+{
+    "loginemail": "pew@pwpw.pw",
+    "loginpass": "deeznuts12!",
+    "paymentinfo": {
+        "cardCvc": "123", 
+        "cardExpirationMonth": "5", 
+        "cardExpirationYear": "2022", 
+        "cardNumber": "32141234412341234", 
+        "cardOwner": "Gucci FlipFlops", 
+        "paymentId": "e3feFUNKOFUCKEDTOOKSTOCK01c9dca2b", 
+        "cardType": "Visa"
+    },
+    "earlylink" : "https://www.boxlunch.com/product/star-wars-the-last-jedi-porg-plush/11059831.html",
+    "productid" : "11059831",
+    "quantity" : "1"
+}
