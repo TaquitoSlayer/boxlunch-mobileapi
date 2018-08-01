@@ -214,10 +214,6 @@ def main():
 
 
 # let's buttfuck at 213132321312213 requests/second and if it times out TOO FUCKING BAD WE GUNNA KEEP FUCKING IT TILL BOXLUNCH'S CAREER IS LISA ANN
-def retry_if_connection_error(exception):
-    """Return True if we should retry (in this case when it's an IOError), False otherwise"""
-    return isinstance(exception, requests.exceptions.RequestException)
-
 while True:
     # could make this a seperate function but it's already done and i got lazy - it's basically a monitor in 5-10 lines of code
     checkifavail = r.get(atcurl, headers = headersmain)
