@@ -5,7 +5,9 @@ I'm seeing more and more people enter the Funko POP! collection scene, and I've 
 
 Introducing the first public 'Funko' bot that can easily be edited to work for Hot Topic as well (soon(tm)).
 
-Follow me on [Twitter](https://twitter.com/taquitoslayer) for clout.
+Follow me on [Twitter](https://twitter.com/taquitoslayer)
+
+Feel free to pay for my tuition while you're at it by sending me some BTC - 178zRN3YVdiTRivhHoJcbJRe7rnGSLRePY
 
 ## Limitations to the Mobile API
 * They have a bug on their app that even though you're using your own account, it'll still charge you $5 for shipping if you're in the US as opposed to the $1. Call their customer service, they'll credit you back $4.
