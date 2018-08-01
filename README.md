@@ -1,5 +1,6 @@
 # BoxLunch.com Monitor and Checkout - Mobile API
 ![FunkoFuckedTookStock](https://i.imgur.com/cZHg4w1.png)
+
 I'm seeing more and more people enter the Funko POP! collection scene, and I've realized that these web devs need to step up their game to make it fair for the collectors. Sike, I resell these joints. However, it's way too easy to get these right now, and what better way to manipulate the market by making it easier to supplement demand.
 
 Introducing the first public 'Funko' bot that can easily be edited to work for Hot Topic as well (soon(tm)).
