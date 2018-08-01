@@ -33,7 +33,7 @@ pip3 install -r requirements.txt
 ![FunkoFuckedTookStock](https://i.imgur.com/3eaH660.png)
 3. Run script
 ```bash
-python3 main.py.py
+python3 main.py
 ```
 > If you have problems with any of the above, you need to google your errors. There are many things that can be wrong, and if all else fails, drop a follow on my twitter and DM me and I'll try and help. I'm nice if you're nice.
 
